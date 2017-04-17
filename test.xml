@@ -2,6 +2,9 @@
   <person>
     <name>Irvan Fauzi</name>
     <hometown>Jakarta</hometown>
+    <petname>
+      <pet>George<pet>
+    </petname>
     <favouritesports>
     	<sport>Football</sport>
     </favouritesports>
@@ -9,6 +12,9 @@
   <person>
     <name>John Doe</name>
     <hometown>Kab Serang</hometown>
+    <petname>
+      <pet>Catty</pet>
+    </petname>
     <favouritesports>
     	<sport>Basketball</sport>
     </favouritesports>
