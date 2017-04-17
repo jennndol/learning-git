@@ -9,6 +9,8 @@
   <person>
     <name>John Doe</name>
     <hometown>Kab Serang</hometown>
-    <petname></petname>
+    <petname>
+      <pet>Catty</pet>
+    </petname>
   </person>
 </test>
