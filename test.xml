@@ -1,10 +1,10 @@
 <test>
   <person>
     <name>Irvan Fauzi</name>
+    <hometown>Jakarta</hometown>
   </person>
   <person>
     <name>John Doe</name>
     <hometown>Kab Serang</hometown>
   </person>
-
 </test>
