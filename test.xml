@@ -2,9 +2,15 @@
   <person>
     <name>Irvan Fauzi</name>
     <hometown>Jakarta</hometown>
+    <favouritesports>
+    	<sport>Football</sport>
+    </favouritesports>
   </person>
   <person>
     <name>John Doe</name>
     <hometown>Kab Serang</hometown>
+    <favouritesports>
+    	<sport>Basketball</sport>
+    </favouritesports>
   </person>
 </test>
