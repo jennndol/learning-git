@@ -2,9 +2,13 @@
   <person>
     <name>Irvan Fauzi</name>
     <hometown>Jakarta</hometown>
+    <petname>
+      <pet>George<pet>
+    </petname>
   </person>
   <person>
     <name>John Doe</name>
     <hometown>Kab Serang</hometown>
+    <petname></petname>
   </person>
 </test>
