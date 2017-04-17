@@ -5,6 +5,9 @@
     <petname>
       <pet>George<pet>
     </petname>
+    <favouritesports>
+    	<sport>Football</sport>
+    </favouritesports>
   </person>
   <person>
     <name>John Doe</name>
@@ -12,5 +15,8 @@
     <petname>
       <pet>Catty</pet>
     </petname>
+    <favouritesports>
+    	<sport>Basketball</sport>
+    </favouritesports>
   </person>
 </test>
