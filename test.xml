@@ -1,6 +1,10 @@
 <test>
-  <name>Irvan Fauzi</name>
+  <person>
+    <name>Irvan Fauzi</name>
+  </person>
+  <person>
+    <name>John Doe</name>
+    <hometown>Kab Serang</hometown>
+  </person>
 
-  <name>John Doe</name>
-  <hometown>Kab Serang</hometown>
 </test>
