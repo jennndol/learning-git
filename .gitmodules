@@ -1,0 +1,3 @@
+[submodule "drf_sample"]
+	path = drf_sample
+	url = git@github.com:jennndol/drf_sample.git
